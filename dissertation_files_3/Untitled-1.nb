@@ -1,0 +1,131 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 8.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       157,          7]
+NotebookDataLength[      3102,        121]
+NotebookOptionsPosition[      2213,         83]
+NotebookOutlinePosition[      2738,        106]
+CellTagsIndexPosition[      2655,        101]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell[BoxData[
+ StyleBox[
+  RowBox[{"binomial", "?"}],
+  FontSize->18]], "Input",
+ CellChangeTimes->{{3.589246423482752*^9, 3.5892464440832644`*^9}},
+ EmphasizeSyntaxErrors->True],
+
+Cell[BoxData[
+ RowBox[{
+  StyleBox[
+   RowBox[{"Syntax", "::", "tsntxi"}], "MessageName"], 
+  RowBox[{
+  ":", " "}], "\<\"\\\"\[NoBreak]\\!\\(binomial ?\\)\[NoBreak]\\\" is \
+incomplete; more input is \
+needed.\[NoBreak]\\!\\(\\\"\\\"\\)\[NoBreak]\"\>"}]], "Message", "MSG",
+ CellChangeTimes->{3.5892464479461946`*^9}],
+
+Cell[BoxData[
+ RowBox[{
+  StyleBox[
+   RowBox[{"Syntax", "::", "sntxi"}], "MessageName"], 
+  RowBox[{
+  ":", " "}], "\<\"Incomplete expression; more input is needed \
+\[NoBreak]\\!\\(\\\"\\\"\\)\[NoBreak].\"\>"}]], "Message", "MSG",
+ CellChangeTimes->{3.5892464479474373`*^9}]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"?", " ", "binomial"}]], "Input",
+ CellChangeTimes->{{3.589246452012278*^9, 3.589246456755652*^9}}],
+
+Cell["Global`binomial", "Print", "PrintUsage",
+ CellChangeTimes->{3.589246457440632*^9},
+ CellTags->"Info3589221257-8686370"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"Binomial", "[", 
+  RowBox[{"6", ",", "4"}], "]"}]], "Input",
+ CellChangeTimes->{{3.589246480766119*^9, 3.589246493835516*^9}}],
+
+Cell[BoxData["15"], "Output",
+ CellChangeTimes->{3.589246494285091*^9}]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"Binomial", "[", 
+  RowBox[{
+   RowBox[{"3", "+", "2", "-", "1"}], ",", "2"}], "]"}]], "Input",
+ CellChangeTimes->{{3.58924653023355*^9, 3.58924654871907*^9}}],
+
+Cell[BoxData["6"], "Output",
+ CellChangeTimes->{3.589246549938489*^9}]
+}, Open  ]]
+},
+WindowSize->{740, 652},
+WindowMargins->{{4, Automatic}, {Automatic, 4}},
+ShowSelection->True,
+FrontEndVersion->"8.0 for Mac OS X x86 (32-bit, 64-bit Kernel) (February 23, \
+2011)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{
+ "Info3589221257-8686370"->{
+  Cell[1519, 55, 125, 2, 39, "Print",
+   CellTags->"Info3589221257-8686370"]}
+ }
+*)
+(*CellTagsIndex
+CellTagsIndex->{
+ {"Info3589221257-8686370", 2553, 95}
+ }
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[579, 22, 178, 5, 33, "Input"],
+Cell[760, 29, 318, 8, 21, "Message"],
+Cell[1081, 39, 276, 7, 21, "Message"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[1394, 51, 122, 2, 27, "Input"],
+Cell[1519, 55, 125, 2, 39, "Print",
+ CellTags->"Info3589221257-8686370"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[1681, 62, 150, 3, 27, "Input"],
+Cell[1834, 67, 71, 1, 27, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[1942, 73, 182, 4, 27, "Input"],
+Cell[2127, 79, 70, 1, 27, "Output"]
+}, Open  ]]
+}
+]
+*)
+
+(* End of internal cache information *)
+
